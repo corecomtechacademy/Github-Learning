@@ -1,7 +1,11 @@
 ---
 Will - I like reading and playing my guitar
 ---
+<<<<<<< HEAD
 Sungket - I like board and retro games, and cycling
+=======
+Natalia - I like singing and doing crafts
+>>>>>>> f71988f1eae79a5c0222118f8758d90ba8e95534
 ---
 Anna - I like running and Pokemon 
 ---
