@@ -1,9 +1,6 @@
 ---
 Will - I like reading and playing my guitar
 ---
-<<<<<<< HEAD
-Adam - I play an unhealthy amount of Fortnite
+Adam - I play an unhealthy amount of Fortnite on the PC
 ---
 Archie - inhaling caffiene
-=======
->>>>>>> 11e00c876fd0c6600edce545a02f25717157a160
