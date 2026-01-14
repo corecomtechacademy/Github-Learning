@@ -1,5 +1,14 @@
 ---
 Will - I like reading and playing my guitar
 ---
+<<<<<<< HEAD
 Dash - I enjoy playing Snooker (Went yesterday for 4 hours)
 Archie - inhaling caffiene
+=======
+<<<<<<< HEAD
+Adam - I play an unhealthy amount of Fortnite
+---
+Archie - inhaling caffiene
+=======
+>>>>>>> 11e00c876fd0c6600edce545a02f25717157a160
+>>>>>>> e22c1a35948793cfa075e9e8852ef4374a8f5bd2
