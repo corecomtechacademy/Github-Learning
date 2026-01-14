@@ -1,16 +1,11 @@
 ---
 Will - I like reading and playing my guitar
 ---
-<<<<<<< HEAD
-Colin - mountain biking
-
-=======
-<<<<<<< HEAD
+Colin - I like mountain biking down technincal trails in beautiful areas of the UK and abroad
+---
 Sungket - I like board and retro games, and cycling
-=======
->>>>>>> 363f73c7e70efc0555111f53915d9ed695013e62
+---
 Natalia - I like singing and doing crafts
->>>>>>> f71988f1eae79a5c0222118f8758d90ba8e95534
 ---
 Anna - I like running and Pokemon 
 ---
