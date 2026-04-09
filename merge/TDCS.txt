@@ -1,1 +1,1 @@
-Best chocolate is = "I don't eat chocolate"
+Best chocolate is =
