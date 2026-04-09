@@ -22,6 +22,7 @@ Welcome to the **GitHub Sandbox**! This repository is for beginners to practice 
    ```
 5. **Open a Pull Request** to merge your changes!
 
+![Colin](./colin.jpg)
 
 ##  Contributing
 Everyone is welcome! Follow the steps and submit your first PR. 
