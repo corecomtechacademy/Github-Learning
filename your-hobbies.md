@@ -1,6 +1,6 @@
-Colin's hobbies are trail running, mountain biking and tag rugby.
+Colin's hobbies are mountain biking, trail running and tag rugby
 
 What are yours?
 
 Cooking, gaming, exercise
-Jigsaws, Untangling things, Reading
+
