@@ -1,5 +1,6 @@
-Colin's hobbies are trail running, mountain biking and tag rugby.
+Zed's hobbies are Cooking, gaming, exercise 
 
 What are yours?
 
 Cooking, gaming, exercise
+
